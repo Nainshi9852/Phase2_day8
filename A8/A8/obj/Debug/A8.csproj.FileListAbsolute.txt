@@ -1,0 +1,13 @@
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\A8.exe.config
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\A8.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\A8.pdb
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\EntityFramework.dll
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\EntityFramework.SqlServer.dll
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\EntityFramework.xml
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\bin\Debug\EntityFramework.SqlServer.xml
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.csproj.AssemblyReference.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.csproj.SuggestedBindingRedirects.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.csproj.CoreCompileInputs.cache
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.csproj.CopyComplete
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.exe
+D:\Indeed2\Phase-2\Daily Exercise\Day-8\A8\A8\obj\Debug\A8.pdb
